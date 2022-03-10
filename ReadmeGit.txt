@@ -1,4 +1,4 @@
-Primer Paso:
+﻿Primer Paso:
 git add . ó git add -A ó git add <archivo_a_agregar>(ReadmeGit.txt)
 
 Segundo:
@@ -8,3 +8,4 @@ Tercero:
 git push origin <branch>(master)
 
 ¡Hola Heidy! ¿como estas? :D
+todo bien
